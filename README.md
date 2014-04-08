@@ -9,4 +9,4 @@ infiniteMonkey is the writing collaboration platform. This is not another wikipe
 
 I believe in crowd sourcing platform.
 
-## We are the monkeys
+## We are all the monkeys
