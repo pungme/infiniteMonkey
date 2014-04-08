@@ -7,4 +7,6 @@ infiniteMonkey is the writing collaboration platform. This is not another wikipe
 
 ## Concept
 
-I believe in crowd sourcing platform
+I believe in crowd sourcing platform.
+
+## We are the monkeys
